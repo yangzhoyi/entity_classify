@@ -1,2 +1,1 @@
-## entity_classify
-# this is my first project
+__EntiClas__ is a tool for classifying querys or words into a category or providing a word with probability distribution on some categories. It bases on the results of the search engine thus provides a A timeliness classification. It is originally designed to distiguish bewteen music, movie, person and location.    
